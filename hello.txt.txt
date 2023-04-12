@@ -1,1 +1,1 @@
-Hey,Java is a programming language.
+Hey,Java is a programming language.And platform independent.
