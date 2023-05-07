@@ -1,1 +1,1 @@
-this is svn command
+this is svn command. This is gui for github repo.
